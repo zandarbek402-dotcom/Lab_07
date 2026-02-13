@@ -1,0 +1,23 @@
+/* src/components/SkillList/SkillList.css */
+.skill-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.skill-list .skill {
+  padding: 10px;
+  margin: 5px 0;
+  border-radius: 4px;
+}
+
+.skill-list .expert {
+  background-color: #d4edda;
+}
+
+.skill-list .intermediate {
+  background-color: #fff3cd;
+}
+
+.skill-list .beginner {
+  background-color: #f8d7da;
+}

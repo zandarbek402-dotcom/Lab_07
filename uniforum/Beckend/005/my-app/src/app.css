@@ -1,0 +1,13 @@
+/* src/App.css */
+.app-container {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f4f4f9;
+  margin: 0 auto;
+  max-width: 800px;
+  text-align: center;
+}
+
+h1 {
+  color: #343a40;
+}
